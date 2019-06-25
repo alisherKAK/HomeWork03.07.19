@@ -1,0 +1,15 @@
+S:\VisualStudio\Net\MessangerClient\MessangerClient\bin\Debug\MessangerClient.exe.config
+S:\VisualStudio\Net\MessangerClient\MessangerClient\bin\Debug\MessangerClient.exe
+S:\VisualStudio\Net\MessangerClient\MessangerClient\bin\Debug\MessangerClient.pdb
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csprojAssemblyReference.cache
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MainWindow.g.cs
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\App.g.cs
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient_MarkupCompile.cache
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient_MarkupCompile.lref
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MainWindow.baml
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient.g.resources
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient.Properties.Resources.resources
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csproj.GenerateResource.cache
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csproj.CoreCompileInputs.cache
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient.exe
+S:\VisualStudio\Net\MessangerClient\MessangerClient\obj\Debug\MessangerClient.pdb

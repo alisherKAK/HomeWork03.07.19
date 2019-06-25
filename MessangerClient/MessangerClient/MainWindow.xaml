@@ -1,0 +1,25 @@
+﻿<Window x:Class="MessangerClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MessangerClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="463.081" Width="802.616">
+    <Grid>
+        <TextBox Name="ipTextBox" KeyDown="IpTextBoxKeyDown" HorizontalAlignment="Left" Height="23" Margin="10,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Ip" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="portTextBox" KeyDown="PortTextBoxKeyDown" HorizontalAlignment="Left" Height="23" Margin="135,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Port" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Name="connectDisconnectButton" Click="ConnectDisconnectButtonClick" Content="Connect" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox Name="messageTextBox" IsReadOnly="True" HorizontalAlignment="Left" Height="301" Margin="10,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="387"/>
+        <TextBox Name="sendMessageTextBox" HorizontalAlignment="Left" Height="301" Margin="409,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236"/>
+        <Button Name="sendButton" Content="Send" Click="SendButtonClick" HorizontalAlignment="Left" Margin="663,394,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox Name="nameTextBox" HorizontalAlignment="Left" Height="23" Margin="260,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="260,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Message" HorizontalAlignment="Left" Margin="409,77,0,0" VerticalAlignment="Top" Width="236"/>
+        <Label Content="User's Id" HorizontalAlignment="Left" Margin="663,77,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="userIpTextBox" KeyDown="UserIpTextBoxKeyDown" HorizontalAlignment="Left" Height="23" Margin="663,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
